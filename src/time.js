@@ -1,4 +1,6 @@
 
+// time for nodejs
+
 function myTime() {
     'use strict';
     var today = new Date(),

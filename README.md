@@ -1,6 +1,19 @@
 JSrepro
 =======
 
-JavaScript Repository
+# JavaScript Repository
 
-Some JS Examples 
+JavaScript GIT Example Collection
+
+# Some JS Examples 
+
+Some Javascript Examples for my lectures
+
+* Functions
+* OOP
+
+````javascript
+// Comment
+````
+
+
